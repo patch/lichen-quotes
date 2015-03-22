@@ -29,3 +29,11 @@ All quotes copyright their respective authors.
 #### Tukuhnikivats
 > I stand on broken rock, slabs of granite veined with feldspar and quartz,
 > colored with patches of green and auburn lichens.
+
+### _The Monkey Wrench Gang_, 1975
+
+#### Into the Heat: The Chase Continues
+> Although the canyon walls are hundreds of feet high and often overhanging,
+> there is little shade. Too dry for cottonwood. The only plant growth in sight
+> is a clump of datura with wilted blooms, a dead pinyon pine, some snakeweed,
+> and lichens on the rock.
