@@ -8,13 +8,15 @@ All quotes copyright their respective authors.
 
 ### _The Brave Cowboy_, 1956
 
+#### The Cowboy
 > The black rock was sharp-edged, hot, and hard as corundum; it seemed not
 > merely alien but impervious to life. Yet on the southern face of almost every
 > rock the lichens grew, yellow, rusty-brown, yellow-green, like patches of
 > dirty paint daubed on the stone.
 
-## _Desert Solitaire: A Season in the Wilderness_, 1968
+### _Desert Solitaire: A Season in the Wilderness_, 1968
 
+#### Down the River
 > Here the canyon walls are a little wider, permitting the sun, for perhaps a
 > couple of hours during the summer day, to shine directly down into this
 > cul-de-sac. A rivulet of clear water pours into the pool; glints and flecks of
@@ -24,5 +26,6 @@ All quotes copyright their respective authors.
 > camas, helleborine orchid and small pale yellow columbines. There are no trees
 > or shrubs, for the sunlight is too brief.
 
+#### Tukuhnikivats
 > I stand on broken rock, slabs of granite veined with feldspar and quartz,
 > colored with patches of green and auburn lichens.
