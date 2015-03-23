@@ -84,3 +84,8 @@ All quotes copyright their respective authors.
 
 > “Why do lichens always grow in bunches?” asked Suzie.  
 > “Lichen attracts lichen. Symbiosis.”
+
+### _Down the River_, 1982
+
+> Near the summit of the cliffs, where the moisture is insufficient to support
+> cactus, we see gray-green streaks of lichen clinging to the stone like a mold.
