@@ -71,3 +71,16 @@ All quotes copyright their respective authors.
 > deathly—a land of jagged salt pillars, crackling and tortured crusts of mud,
 > sunburnt gravel bars the color of rust, rocks and boulders of metallic blue
 > naked even of lichen.
+
+### _Abbey’s Road_, 1979
+
+> Untrod by cattle for many years, the sand bore on its surface a type of dark
+> primitive moss called cryptogam. Dry, crunchy, but alive, this humble plant is
+> of the first to begin the transformation of bare sand into organic soil.
+> (Don’t step on the cryptogams!) Growing on top of the cryptogams, carrying the
+> earth-making process forward, were clumps of gray and bluish lichens.
+
+---
+
+> “Why do lichens always grow in bunches?” asked Suzie.  
+> “Lichen attracts lichen. Symbiosis.”
