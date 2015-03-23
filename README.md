@@ -8,16 +8,12 @@ All quotes copyright their respective authors.
 
 ### _The Brave Cowboy_, 1956
 
-#### The Cowboy
-
 > The black rock was sharp-edged, hot, and hard as corundum; it seemed not
 > merely alien but impervious to life. Yet on the southern face of almost every
 > rock the lichens grew, yellow, rusty-brown, yellow-green, like patches of
 > dirty paint daubed on the stone.
 
-### _Desert Solitaire: A Season in the Wilderness_, 1968
-
-#### Down the River
+### _Desert Solitaire_, 1968
 
 > Here the canyon walls are a little wider, permitting the sun, for perhaps a
 > couple of hours during the summer day, to shine directly down into this
@@ -28,13 +24,12 @@ All quotes copyright their respective authors.
 > camas, helleborine orchid and small pale yellow columbines. There are no trees
 > or shrubs, for the sunlight is too brief.
 
-#### Tukuhnikivats
+---
+
 > I stand on broken rock, slabs of granite veined with feldspar and quartz,
 > colored with patches of green and auburn lichens.
 
 ### _Black Sun_, 1971
-
-#### In the Sun
 
 > They walked over the gray rock daubed with green, red, yellow, rust-brown
 > lichens, past the twisted and silvery skeletons of long-dead trees, and along
@@ -59,9 +54,20 @@ All quotes copyright their respective authors.
 
 ### _The Monkey Wrench Gang_, 1975
 
-#### Into the Heat: The Chase Continues
-
 > Although the canyon walls are hundreds of feet high and often overhanging,
 > there is little shade. Too dry for cottonwood. The only plant growth in sight
 > is a clump of datura with wilted blooms, a dead pinyon pine, some snakeweed,
 > and lichens on the rock.
+
+### _The Journey Home_, 1977
+
+> On the shady northern side of sandstone and lava we find green, gold, black,
+> and auburn lichens in symbiotic clusters, patiently dissolving the rock of
+> ages into sand and soil.
+
+---
+
+> Despite variety, most of the surface of Death Valley is dead. Dead, dead,
+> deathly—a land of jagged salt pillars, crackling and tortured crusts of mud,
+> sunburnt gravel bars the color of rust, rocks and boulders of metallic blue
+> naked even of lichen.
