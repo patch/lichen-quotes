@@ -89,3 +89,17 @@ All quotes copyright their respective authors.
 
 > Near the summit of the cliffs, where the moisture is insufficient to support
 > cactus, we see gray-green streaks of lichen clinging to the stone like a mold.
+
+### Beyond the Wall, 1984
+
+> Rock the color of raw liver, of rusted iron, of moldy sponge cake, of
+> verdigris. Walls painted with masses of lichens in green, gray, yellow,
+> orange, blue.
+
+---
+
+> I shuffle barefoot over the stones, pee on a clump of cryptogams—strange
+> wedlock of lichen and algae—and watch their furry leaves exfoliate and turn
+> temporary green, tricked by my golden stream into their preprogrammed response
+> to rain. A crude joke, but it won’t hurt them; in this heavily alkaline soil a
+> gentle shower of uric acid might even strike them as curiously refreshing.
