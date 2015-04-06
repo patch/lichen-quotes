@@ -90,7 +90,7 @@ All quotes copyright their respective authors.
 > Near the summit of the cliffs, where the moisture is insufficient to support
 > cactus, we see gray-green streaks of lichen clinging to the stone like a mold.
 
-### Beyond the Wall, 1984
+### _Beyond the Wall_, 1984
 
 > Rock the color of raw liver, of rusted iron, of moldy sponge cake, of
 > verdigris. Walls painted with masses of lichens in green, gray, yellow,
@@ -103,3 +103,8 @@ All quotes copyright their respective authors.
 > temporary green, tricked by my golden stream into their preprogrammed response
 > to rain. A crude joke, but it won’t hurt them; in this heavily alkaline soil a
 > gentle shower of uric acid might even strike them as curiously refreshing.
+
+### _One Life at a Time, Please_, 1988
+
+> But good literary critics are plentiful, common as lichens on an academic
+> wall.
